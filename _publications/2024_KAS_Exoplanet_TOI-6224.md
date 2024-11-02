@@ -11,4 +11,4 @@ Exoplanet transit studies detect and characterize planets orbiting other stars. 
 
 Here is a [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to my digital poster.
 
-Here is a [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to my paper, TESS Exoplanet Candidate Follow-ups with the Bell Observatory, from which the TOI-6224.01 data comes from.
+Here is a (LINK TO DRAFT COMING SOON) to my paper, TESS Exoplanet Candidate Follow-ups with the Bell Observatory, from which the data of TOI-6224.01 is included amongst other candidate exoplanets.
