@@ -21,7 +21,7 @@ repository               : "dylanberry03/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_3928.PNG"
   name             : "Dylan Berry"
   pronouns         : "he/him"
   bio              : "I am a student at Western Kentucky University, currently pursuing a Mathematics degree, with an interest in research in astronomy. I am the President of the Hilltopper Astronomy Club, and have various roles in other clubs at WKU, such as the Society of Physics Students, Chess Club, Women in Physics, Pool Club, and Math Club."
@@ -29,6 +29,7 @@ author:
   employer         : "Western Kentucky University"
   uri              : # URL
   email            : "berrydylan03@gmail.com" 
+  website          : "Still Under Construction"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
